@@ -1,0 +1,21 @@
+3. Inventory Management System 
+
+Question: 
+Create a program to manage the inventory of a small store. The program should: 
+● Allow users to add new products with details like name, price, and quantity. 
+● Update or delete product details. 
+● Display the current inventory of products. 
+● Save all product information in a text file so that it persists between program runs. 
+Use classes to represent products and inventory, and validate product details (e.g., price 
+must be numeric) using regular expressions.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+1# Create a class to introduce new product.(Name, Price, Quantity.)
+2# Create dictonary to keep the record of current product. 
+3# Create a funcation to Update product quantity-
+	- Buying
+	- Selling
+	- Delete
+4# Print each product of the inventory.
+5# Keeping receipt of current product in text format.(OS)
